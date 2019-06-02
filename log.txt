@@ -1,0 +1,742 @@
+**********EVENT INFO*********
+0
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-09-12T20:30:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-09-14T20:30:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-09-15T20:30:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-09-17T20:30:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-09-19T20:30:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-09-21T20:30:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-09-22T20:30:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-09-24T20:30:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-09-25T20:30:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-09-26T20:30:00
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-09-28T20:30:00
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-10-01T20:30:00
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-10-02T20:30:00
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-10-03T20:30:00
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-10-05T20:30:00
+*****************************
+**********EVENT INFO*********
+15
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-10-06T20:30:00
+*****************************
+**********EVENT INFO*********
+16
+Name of the Venue: BAM (Brooklyn Academy of Music)
+Venue Location: Brooklyn
+Date of the Event: 2019-10-07T20:30:00
+*****************************
+**********EVENT INFO*********
+17
+Name of the Venue: The Chicago Theatre
+Venue Location: Chicago
+Date of the Event: 2019-10-15T20:30:00
+*****************************
+**********EVENT INFO*********
+18
+Name of the Venue: The Chicago Theatre
+Venue Location: Chicago
+Date of the Event: 2019-10-16T20:30:00
+*****************************
+**********EVENT INFO*********
+19
+Name of the Venue: The Chicago Theatre
+Venue Location: Chicago
+Date of the Event: 2019-10-17T20:30:00
+*****************************
+**********EVENT INFO*********
+20
+Name of the Venue: The Chicago Theatre
+Venue Location: Chicago
+Date of the Event: 2019-10-21T20:30:00
+*****************************
+**********EVENT INFO*********
+21
+Name of the Venue: The Chicago Theatre
+Venue Location: Chicago
+Date of the Event: 2019-10-23T20:30:00
+*****************************
+**********EVENT INFO*********
+22
+Name of the Venue: The Chicago Theatre
+Venue Location: Chicago
+Date of the Event: 2019-10-24T20:30:00
+*****************************
+**********EVENT INFO*********
+23
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2019-11-07T20:30:00
+*****************************
+**********EVENT INFO*********
+24
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2019-11-09T20:30:00
+*****************************
+**********EVENT INFO*********
+25
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2019-11-10T20:30:00
+*****************************
+**********EVENT INFO*********
+26
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-12T20:30:00
+*****************************
+**********EVENT INFO*********
+27
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-13T20:30:00
+*****************************
+**********EVENT INFO*********
+28
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-14T20:30:00
+*****************************
+**********EVENT INFO*********
+29
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-16T20:30:00
+*****************************
+**********EVENT INFO*********
+30
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-17T20:30:00
+*****************************
+**********EVENT INFO*********
+31
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-19T20:30:00
+*****************************
+**********EVENT INFO*********
+32
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-20T20:30:00
+*****************************
+**********EVENT INFO*********
+33
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-21T20:30:00
+*****************************
+**********EVENT INFO*********
+34
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-23T20:30:00
+*****************************
+**********EVENT INFO*********
+35
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-24T20:30:00
+*****************************
+**********EVENT INFO*********
+36
+Name of the Venue: The Wiltern
+Venue Location: Los Angeles
+Date of the Event: 2019-11-25T20:30:00
+*****************************
+**********EVENT INFO*********
+37
+Name of the Venue: Boch Center - Wang Theatre
+Venue Location: Boston
+Date of the Event: 2019-11-30T20:30:00
+*****************************
+**********EVENT INFO*********
+38
+Name of the Venue: Boch Center - Wang Theatre
+Venue Location: Boston
+Date of the Event: 2019-12-01T20:30:00
+*****************************
+**********EVENT INFO*********
+39
+Name of the Venue: Boch Center - Wang Theatre
+Venue Location: Boston
+Date of the Event: 2019-12-02T20:30:00
+*****************************
+**********EVENT INFO*********
+40
+Name of the Venue: The Met Philadelphia
+Venue Location: Philadelphia
+Date of the Event: 2019-12-07T20:30:00
+*****************************
+**********EVENT INFO*********
+41
+Name of the Venue: The Met Philadelphia
+Venue Location: Philadelphia
+Date of the Event: 2019-12-08T20:30:00
+*****************************
+**********EVENT INFO*********
+42
+Name of the Venue: The Met Philadelphia
+Venue Location: Philadelphia
+Date of the Event: 2019-12-11T20:30:00
+*****************************
+**********EVENT INFO*********
+43
+Name of the Venue: The Fillmore Miami Beach at Jackie Gleason Theater
+Venue Location: Miami Beach
+Date of the Event: 2019-12-14T20:30:00
+*****************************
+**********EVENT INFO*********
+44
+Name of the Venue: The Fillmore Miami Beach at Jackie Gleason Theater
+Venue Location: Miami Beach
+Date of the Event: 2019-12-15T20:30:00
+*****************************
+**********EVENT INFO*********
+45
+Name of the Venue: The Fillmore Miami Beach at Jackie Gleason Theater
+Venue Location: Miami Beach
+Date of the Event: 2019-12-17T20:30:00
+*****************************
+**********EVENT INFO*********
+46
+Name of the Venue: The Fillmore Miami Beach at Jackie Gleason Theater
+Venue Location: Miami Beach
+Date of the Event: 2019-12-18T20:30:00
+*****************************
+**********EVENT INFO*********
+47
+Name of the Venue: The Fillmore Miami Beach at Jackie Gleason Theater
+Venue Location: Miami Beach
+Date of the Event: 2019-12-19T20:30:00
+*****************************
+**********EVENT INFO*********
+48
+Name of the Venue: London Palladium
+Venue Location: London
+Date of the Event: 2020-01-26T20:30:00
+*****************************
+**********EVENT INFO*********
+49
+Name of the Venue: London Palladium
+Venue Location: London
+Date of the Event: 2020-01-27T20:30:00
+*****************************
+**********EVENT INFO*********
+50
+Name of the Venue: London Palladium
+Venue Location: London
+Date of the Event: 2020-01-29T19:00:00
+*****************************
+**********EVENT INFO*********
+51
+Name of the Venue: London Palladium
+Venue Location: London
+Date of the Event: 2020-01-30T20:30:00
+*****************************
+**********EVENT INFO*********
+52
+Name of the Venue: London Palladium
+Venue Location: London
+Date of the Event: 2020-02-01T20:30:00
+*****************************
+**********EVENT INFO*********
+53
+Name of the Venue: London Palladium
+Venue Location: London
+Date of the Event: 2020-02-02T20:30:00
+*****************************
+**********EVENT INFO*********
+54
+Name of the Venue: London Palladium
+Venue Location: London
+Date of the Event: 2020-02-04T20:30:00
+*****************************
+**********EVENT INFO*********
+55
+Name of the Venue: London Palladium
+Venue Location: London
+Date of the Event: 2020-02-05T20:30:00
+*****************************
+**********EVENT INFO*********
+56
+Name of the Venue: London Palladium
+Venue Location: London
+Date of the Event: 2020-02-06T20:30:00
+*****************************
+**********EVENT INFO*********
+57
+Name of the Venue: London Palladium
+Venue Location: London
+Date of the Event: 2020-02-08T20:30:00
+*****************************
+**********EVENT INFO*********
+58
+Name of the Venue: London Palladium
+Venue Location: London
+Date of the Event: 2020-02-09T20:30:00
+*****************************
+**********EVENT INFO*********
+59
+Name of the Venue: London Palladium
+Venue Location: London
+Date of the Event: 2020-02-11T20:30:00
+*****************************
+**********EVENT INFO*********
+60
+Name of the Venue: London Palladium
+Venue Location: London
+Date of the Event: 2020-02-12T20:30:00
+*****************************
+**********EVENT INFO*********
+61
+Name of the Venue: London Palladium
+Venue Location: London
+Date of the Event: 2020-02-13T20:30:00
+*****************************
+**********EVENT INFO*********
+62
+Name of the Venue: London Palladium
+Venue Location: London
+Date of the Event: 2020-02-15T20:30:00
+*****************************
+**********EVENT INFO*********
+63
+Name of the Venue: Grand Rex Paris
+Venue Location: Paris
+Date of the Event: 2020-02-18T20:00:00
+*****************************
+**********EVENT INFO*********
+64
+Name of the Venue: Grand Rex Paris
+Venue Location: Paris
+Date of the Event: 2020-02-19T20:00:00
+*****************************
+**********EVENT INFO*********
+65
+Name of the Venue: Grand Rex Paris
+Venue Location: Paris
+Date of the Event: 2020-02-20T20:00:00
+*****************************
+**********EVENT INFO*********
+66
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-22T20:00:00
+*****************************
+**********EVENT INFO*********
+67
+Name of the Venue: Grand Rex Paris
+Venue Location: Paris
+Date of the Event: 2020-02-23T20:00:00
+*****************************
+**********EVENT INFO*********
+68
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-25T20:30:00
+*****************************
+**********EVENT INFO*********
+69
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-26T20:30:00
+*****************************
+**********EVENT INFO*********
+70
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-27T20:30:00
+*****************************
+**********EVENT INFO*********
+71
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-29T20:30:00
+*****************************
+**********EVENT INFO*********
+72
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-03-01T20:30:00
+*****************************
+**********SONG INFO*********
+0
+song name: Ain't No Mountain High Enough
+preview song: null
+album: United
+artist(s): Marvin Gaye
+*****************************
+**********SONG INFO*********
+1
+song name: Marvin Gaye (feat. Meghan Trainor)
+preview song: https://p.scdn.co/mp3-preview/e6a5d5e2cd75bce08b7cf483d15b72b5e4bf3226?cid=0907c96f999142bd94adb087c6864168
+album: Some Type Of Love
+artist(s): Charlie Puth
+*****************************
+**********SONG INFO*********
+2
+song name: Let's Get It On
+preview song: null
+album: Let's Get It On
+artist(s): Marvin Gaye
+*****************************
+**********SONG INFO*********
+3
+song name: I Heard It Through The Grapevine
+preview song: null
+album: Every Great Motown Hit Of Marvin Gaye
+artist(s): Marvin Gaye
+*****************************
+**********SONG INFO*********
+4
+song name: Sexual Healing
+preview song: https://p.scdn.co/mp3-preview/2688ebb604b4efacd0d6e12bf378a8eaa56138a8?cid=0907c96f999142bd94adb087c6864168
+album: Midnight Love
+artist(s): Marvin Gaye
+*****************************
+**********SONG INFO*********
+5
+song name: Marvin & Chardonnay
+preview song: null
+album: Finally Famous (Deluxe)
+artist(s): Big Sean
+*****************************
+**********SONG INFO*********
+6
+song name: Marvin Gaye (feat. Meghan Trainor)
+preview song: https://p.scdn.co/mp3-preview/e6a5d5e2cd75bce08b7cf483d15b72b5e4bf3226?cid=0907c96f999142bd94adb087c6864168
+album: Nine Track Mind
+artist(s): Charlie Puth
+*****************************
+**********SONG INFO*********
+7
+song name: What's Going On
+preview song: null
+album: What's Going On
+artist(s): Marvin Gaye
+*****************************
+**********SONG INFO*********
+8
+song name: Ain't No Mountain High Enough - Mono
+preview song: null
+album: Anthology: The Best Of Marvin Gaye
+artist(s): Marvin Gaye
+*****************************
+**********SONG INFO*********
+9
+song name: Sexual Healing - Kygo Remix
+preview song: https://p.scdn.co/mp3-preview/072b43195e6978017df17992568d3c88738ed706?cid=0907c96f999142bd94adb087c6864168
+album: Sexual Healing (Kygo Remix)
+artist(s): Marvin Gaye
+*****************************
+**********SONG INFO*********
+10
+song name: Got To Give It Up - Pt. 1
+preview song: null
+album: Every Great Motown Hit Of Marvin Gaye
+artist(s): Marvin Gaye
+*****************************
+**********SONG INFO*********
+11
+song name: You're All I Need To Get By
+preview song: null
+album: You're All I Need
+artist(s): Marvin Gaye
+*****************************
+**********SONG INFO*********
+12
+song name: What's Going On
+preview song: null
+album: What's Going On - 40th Anniversary (Super Deluxe)
+artist(s): Marvin Gaye
+*****************************
+**********SONG INFO*********
+13
+song name: Never Would Have Made It
+preview song: https://p.scdn.co/mp3-preview/e8b03c7dfae980b50e1f611e7bc2c363bdc4d7e6?cid=0907c96f999142bd94adb087c6864168
+album: Thirsty
+artist(s): Marvin Sapp
+*****************************
+**********SONG INFO*********
+14
+song name: The Bidding
+preview song: https://p.scdn.co/mp3-preview/65159b3fd4ae75641851d2b94c5497a83e19378d?cid=0907c96f999142bd94adb087c6864168
+album: Marvin's Marvelous Mechanical Museum
+artist(s): Tally Hall
+*****************************
+**********SONG INFO*********
+15
+song name: Close (Radio Edit)
+preview song: https://p.scdn.co/mp3-preview/2f7ac61373a53dc24f1107148f5636b25eb995d5?cid=0907c96f999142bd94adb087c6864168
+album: Close (Radio Edit)
+artist(s): Marvin Sapp
+*****************************
+**********SONG INFO*********
+16
+song name: The Best In Me
+preview song: https://p.scdn.co/mp3-preview/d67581a187bf53993925d7703e02a12ac5355625?cid=0907c96f999142bd94adb087c6864168
+album: Here I Am
+artist(s): Marvin Sapp
+*****************************
+**********SONG INFO*********
+17
+song name: Mercy Mercy Me (The Ecology)
+preview song: null
+album: What's Going On
+artist(s): Marvin Gaye
+*****************************
+**********SONG INFO*********
+18
+song name: Sexual Healing - Kygo Radio Edit
+preview song: https://p.scdn.co/mp3-preview/9e59f00e75b4792027c9706a82e02d2ba2d13cc0?cid=0907c96f999142bd94adb087c6864168
+album: Sexual Healing (Kygo Radio Edit)
+artist(s): Kygo
+*****************************
+**********SONG INFO*********
+19
+song name: MATAFAKA
+preview song: https://p.scdn.co/mp3-preview/3adad52a48b075f4e34a8695d3a6af7c18518247?cid=0907c96f999142bd94adb087c6864168
+album: MATAFAKA
+artist(s): Unknown Brain
+*****************************
+**********MOVIE INFO*********
+Title: Endgame
+Release Year: 2011
+IMDB Rating: 7.7
+**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=0907c96f999142bd94adb087c6864168
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=0907c96f999142bd94adb087c6864168
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=0907c96f999142bd94adb087c6864168
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=0907c96f999142bd94adb087c6864168
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+4
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=0907c96f999142bd94adb087c6864168
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********SONG INFO*********
+5
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=0907c96f999142bd94adb087c6864168
+album: Under the Covers, Vol. 3
+artist(s): Jess and Gabriel
+*****************************
+**********SONG INFO*********
+6
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=0907c96f999142bd94adb087c6864168
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+7
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=0907c96f999142bd94adb087c6864168
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+8
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=0907c96f999142bd94adb087c6864168
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+10
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=0907c96f999142bd94adb087c6864168
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+11
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+12
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=0907c96f999142bd94adb087c6864168
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=0907c96f999142bd94adb087c6864168
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=0907c96f999142bd94adb087c6864168
+album: I Want It That Way
+artist(s): Manuel Costa
+*****************************
+**********SONG INFO*********
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=0907c96f999142bd94adb087c6864168
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+16
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f44bea13dbf31275a76f3dee8c40dcf25bd051f1?cid=0907c96f999142bd94adb087c6864168
+album: Timeless Love
+artist(s): Love Hits On Piano
+*****************************
+**********SONG INFO*********
+17
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=0907c96f999142bd94adb087c6864168
+album: I Want It That Way
+artist(s): Yshop
+*****************************
+**********SONG INFO*********
+18
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=0907c96f999142bd94adb087c6864168
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG INFO*********
+19
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=0907c96f999142bd94adb087c6864168
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+*****************************
+**********MOVIE INFO*********
+Title: Endgame
+Release Year: 2011
+IMDB Rating: 7.7
+**********MOVIE INFO*********
+Title: Endgame
+Release Year: 2011
+IMDB Rating: 7.7
+**********MOVIE INFO*********
+Title: Endgame
+Release Year: 2011
+IMDB Rating: 7.7
+**********MOVIE INFO*********
+Title: Endgame
+Release Year: 2011
+IMDB Rating: 7.7
+**********MOVIE INFO*********
+Title: Mr. Bean
+Release Year: 1990–1995
+IMDB Rating: 8.5
